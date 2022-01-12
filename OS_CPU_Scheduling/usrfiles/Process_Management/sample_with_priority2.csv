@@ -1,0 +1,6 @@
+Process,Burst time,Arrival time,Priority
+1,7,2,1
+2,10,19,2
+3,8,20,3
+4,12,25,4
+5,15,28,5
