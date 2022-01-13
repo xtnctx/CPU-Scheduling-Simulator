@@ -1,4 +1,4 @@
-# Operating System CPU Scheduling
+# CPU Scheduling Simulator
 
 ## Single Contiguous Memory Management
     One process at a time
