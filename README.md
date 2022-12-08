@@ -12,9 +12,11 @@
     * First Fit
         > Allocate the first hole that is big enough
 ## Process Management
-    - A process is said to be running if it currently has the CPU
-    - A process is said to be ready if it could use the CPU if one were available
-    - A process is said to be blocked if it is waiting for some event to happen before it can proceed
+    * A process is said to be running if it currently has the CPU
+    * A process is said to be ready if it could use the CPU if one were available
+    * A process is said to be blocked if it is waiting for some event to happen before it can proceed
+
+
 * Non-preemptive - _Process CAN'T be taken away by another process_
     * First Come First Serve
     * Shortest Job First
